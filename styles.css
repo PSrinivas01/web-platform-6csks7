@@ -1,0 +1,59 @@
+*{
+  border: 10px 10px 10px 10px;
+  margin : 4px ;
+  padding :3px;
+}
+body{
+  border : 3px solid black;
+}
+#sub{
+  color: blue;
+  background: rgb(230, 227, 52);
+  height: 30px;
+  border-radius: 10px;
+  font-size: 10.5;
+  width: 170px;
+  position:absolute;
+  right:50%;
+  top:90%;
+}
+#sub1{
+  background: white;
+  border-radius: 10px;
+  height: 30px;
+  width: 100px;
+  position:absolute;
+  right:29%;
+  top:90%;
+}
+.thankyou{
+  position:absolute;
+  top:14%;
+  width:150px;
+  left:100px;
+  height:12px;
+}
+#one{
+  position:absolute;
+  left:100px;
+  top:44px;
+  padding-top:
+}
+#two{
+  position:absolute;
+  left:230px;
+  top:44px;
+}
+.pass{
+  position:absolute;
+  left:100px
+}
+#three{
+  position:absolute;
+  left:200px;
+}
+#four{
+  position:absolute;
+  left:350px;
+  padding:0px;
+}
